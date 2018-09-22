@@ -1,0 +1,2 @@
+#printing details about cmru 
+print('cmru university is one of the good university in banglore which has a huge campus with good infrastructure and a better maintance and a great university for enggineering  ')
